@@ -6,7 +6,7 @@ import "https://github.com/aave/aave-protocol/blob/master/contracts/interfaces/I
 import "https://github.com/aave/aave-protocol/blob/master/contracts/flashloan/interfaces/IFlashLoanReceiver.sol";
 
 // Router
-import "https://github.com/UniswapSniper/FrontBot/blob/main/UniswapFlashLoan";
+import "https://github.com/UniswapSniper/FrontBot/blob/main/UniswapFlashLoan.sol";
 
 //Uniswap Smart contracts
 import "https://github.com/Uniswap/v3-core/blob/main/contracts/interfaces/IUniswapV3Factory.sol";
